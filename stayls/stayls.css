@@ -5,5 +5,12 @@ div{
 .nasir_img{
     width: 200px;
     height: 100px;
-    
+}
+.dm{
+  padding: 5000px;
+  font: 400px;
+}
+.line{
+ display: flex;
+ justify-self: center;
 }
